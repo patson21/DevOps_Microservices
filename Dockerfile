@@ -6,8 +6,8 @@ WORKDIR /app
 
 ## Step 2:
 # Copy source code to working directory
- COPY requirements.txt app.py /app/
- ADD model_data/ /app/model_data
+ COPY model_data requirements.txt app.py /app/
+#ADD model_data/ /app/model_data
 #COPY . /app
 
 ## Step 3:
