@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![patson21](https://circleci.com/gh/patson21/DevOps_Microservices/tree/teesloane-patch-5.svg?style=svg)](hhttps://app.circleci.com/pipelines/github/patson21/DevOps_Microservices/?branch=submission)
 
 ## Project Overview
 
